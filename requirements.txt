@@ -3,3 +3,4 @@ dash-bootstrap-components
 pyodbc
 bcrypt
 python-dotenv
+gunicorn
