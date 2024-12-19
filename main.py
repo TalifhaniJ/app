@@ -469,5 +469,5 @@ def like_story(n_clicks, login_state):
 
 # Running the app
 if __name__ == "__main__":
-    port = int(os.environ.get("PORT", 8050))    
+    port = int(os.environ.get("PORT", 8000))    
     archia_app.run_server(port=port)
