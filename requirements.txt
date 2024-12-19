@@ -4,4 +4,3 @@ pyodbc
 bcrypt
 python-dotenv
 gunicorn
-fcntl
